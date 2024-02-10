@@ -1,7 +1,9 @@
 Lesson 2 Homework
 In this homework assignment, I show my knowledge of Huggingface and OpenXLabs and show an example of commandline usage which generates a 300 Word Chinese story about a chicken using InternLM2_Chat 1.8B.
 TBD: Do the advanced parts of the homework.
+
 ![image](assets/screenshot.png)
+
 In this screenshot, I use OpenXlabs to download the HuggingFace Compatable InternLM2_Chat 1.8B. I originally had trouble with the slow speed of 7B and could not get compatiblity with BitsandBytes for quantization.
 It's technically not in the instructions but I assume using a different InternLM Model for testing is allowed.
 Regardless, I was able to ask InternLM "给我写一个关于鸡的故事" and it responded with the story.
