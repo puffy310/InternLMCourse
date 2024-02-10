@@ -1,4 +1,4 @@
-Lesson 2 Homework
+#Lesson 2 Homework
 In this homework assignment, I show my knowledge of Huggingface and OpenXLabs and show an example of commandline usage which generates a 300 Word Chinese story about a chicken using InternLM2_Chat 1.8B.
 TBD: Do the advanced parts of the homework.
 
