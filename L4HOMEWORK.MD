@@ -5,7 +5,7 @@
 从源代码安装它后，我使用杂乱无序的文件来训练 InternLM2-Chat-1.8B。
 好吧，经过对配置文件的多次尝试和错误，我终于让它工作了。
 
-![image](Assets/screeenshot10.png)
+![image](Assets/screenshot10.png)
 
 老实说，我为自己感到非常自豪，我什至完成了这个项目。
 我现在已经完成了整个模型，目前正在转换为 HF 格式。
