@@ -14,6 +14,5 @@ I have now finished the entire model, currently converting to HF format.
 
 It took about 3 Hours from start to finish.
 
-![image](Assets/screenshot12.png)
 
 I recall there is a lot more work to do, but I will wait for the instructor to tell the class.
