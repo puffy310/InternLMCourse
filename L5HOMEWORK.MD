@@ -6,6 +6,7 @@ LMDeploy 使用起来很有趣。 根据所有课程，我选择使用 InternLM2
 !image(Assets/screenshot4.png)
 
 然后，我验证了它作为 API 程序的工作原理，并使用另一个终端窗口来检查它在另一端是否也工作。
+
 !image(Assets/screenshot3.png)
 
 我的 jupyter 笔记本环境已经变得相当混乱，但在我完全完成课程之前我不会完全清理它。
