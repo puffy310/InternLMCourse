@@ -5,15 +5,15 @@ I orginally used the PIP package of xtuner but switched enviorments to install i
 After I installed it from source I used my cluttered disorganized files to train InternLM2-Chat-1.8B.
 Okay, I finally got it work after much trial and error with the config file.
 
-![image](Assets/screenshot10)
+![image](Assets/screeenshot10.png)
 
 I'm very proud of myself I even finished this project to be honest.
 I have now finished the entire model, currently converting to HF format.
 
-![image](Assets/screenshot11)
+![image](Assets/screenshot11.png)
 
 It took about 3 Hours from start to finish.
 
-![image](Assets/screenshot12)
+![image](Assets/screenshot12.png)
 
 I recall there is a lot more work to do, but I will wait for the instructor to tell the class.
