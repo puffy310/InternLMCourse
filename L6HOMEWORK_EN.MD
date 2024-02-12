@@ -6,15 +6,15 @@ Here are some failed attempts to get this working properly.
 
 First, I read all the configurations avilable in opencompass.
 
-![image](screenshot6.png)
+![image](Assets/screenshot6.png)
 
 Second, I started the program to evalute.
 
-![image](screenshot9.png)
+![image](Assets/screenshot9.png)
 
 Thrid, I saw a large number of errors.
 
-![image](screenshot8.png)
+![image](Assets/screenshot8.png)
 
 I then got the results back, I'm pretty sure no predictions were made.
 
