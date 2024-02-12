@@ -18,6 +18,6 @@ Thrid, I saw a large number of errors.
 
 I then got the results back, I'm pretty sure no predictions were made.
 
-![image](screenshot7.png)
+![image](Assets/screenshot7.png)
 
 This concludes the basic homework, and I will be working with the class instructor to figure out what is after.
